@@ -1,0 +1,12 @@
+nrf24.c:12:6:NRF24_init	8	static
+nrf24.c:28:6:NRF24_reset	80	static
+nrf24.c:96:6:NRF24_send_cmd	16	static
+nrf24.c:105:6:NRF24_write_reg	32	static
+nrf24.c:118:6:NRF24_write_regN	32	static
+nrf24.c:131:9:NRF24_read_reg	32	static
+nrf24.c:145:6:NRF24_read_regN	16	static
+nrf24.c:156:6:NRF24_TXmode	32	static
+nrf24.c:173:9:NRF24_TX	40	static
+nrf24.c:202:6:NRF24_RXmode	48	static
+nrf24.c:240:9:NRF24_checkpipe	32	static
+nrf24.c:256:6:NRF24_RX	32	static

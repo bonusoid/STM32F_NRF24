@@ -1,0 +1,16 @@
+lcd_n1202.c:6:6:lcdn1202_init	8	static
+lcd_n1202.c:30:6:lcdn1202_sendcom	16	static
+lcd_n1202.c:35:6:lcdn1202_senddat	16	static
+lcd_n1202.c:40:6:lcdn1202_setpos	16	static
+lcd_n1202.c:47:6:lcdn1202_clear	16	static
+lcd_n1202.c:60:6:LCD_setpos	16	static
+lcd_n1202.c:65:6:LCD_drawbyte	16	static
+lcd_n1202.c:70:6:LCD_drawchar	40	static
+lcd_n1202.c:101:6:LCD_drawtext	24	static
+lcd_n1202.c:112:6:LCD_drawint	40	static
+lcd_n1202.c:137:6:LCD_clear	8	static
+lcd_n1202.c:144:6:LCD_clearblock	32	static
+lcd_n1202.c:155:6:LCD_normal	8	static
+lcd_n1202.c:160:6:LCD_reverse	8	static
+lcd_n1202.c:165:6:LCD_BL_ON	8	static
+lcd_n1202.c:170:6:LCD_BL_OFF	8	static

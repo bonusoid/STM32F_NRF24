@@ -1,0 +1,5 @@
+#!/bin/sh
+FIRMW="STM32F_NRF24"
+
+# Flash via SWD, binary format
+sudo st-flash --reset write $FIRMW.bin 0x8000000
